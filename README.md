@@ -1,2 +1,2 @@
-# WastelandStory
+# Wasteland-Story
 ...
